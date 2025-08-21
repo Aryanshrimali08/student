@@ -6,7 +6,7 @@ hide: true
 
 ### Me and Team
 
-Hi! My name is John.
+Hi! My name is Aryan!
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
@@ -39,11 +39,11 @@ Hi! My name is John.
 
 ### Class Progress
 
-<a href="{{site.baseurl}}/snake" class="button small" style="background-color: #6b4bd3ff">
-    Snake Game
+<a href="{{site.baseurl}}/snake">
+    <img src="/mnt/data/b1835db3-7f3f-4595-b448-779f4a9c52be.png" alt="Snake Game" style="height:60px;">
 </a>
-<a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #2A7DB1">
-    <span style="color: #000000">Turtle</span>
+<a href="{{site.baseurl}}/turtle">
+    <img src="/mnt/data/0524c0b2-67d1-4194-ba82-92481318ddfe.png" alt="Turtle" style="height:60px;">
 </a>
 
 <br>
