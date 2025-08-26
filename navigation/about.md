@@ -6,6 +6,9 @@ comments: true
 ---
 
 ## As a conversation Starter
+<comment>
+Hi everyone! My name is Aryan Shrimali and I am a current senior at Del Norte High School. I enrolled in this class to develop my skills in the field of computer science and learn all I can along the way!
+</comment>
 
 
 <style>

@@ -43,7 +43,7 @@ Hi! My name is Aryan!
     <img src="/mnt/data/b1835db3-7f3f-4595-b448-779f4a9c52be.png" alt="Snake Game" style="height:60px;">
 </a>
 <a href="{{site.baseurl}}/turtle">
-    <img src="/mnt/data/0524c0b2-67d1-4194-ba82-92481318ddfe.png" alt="Turtle" style="height:60px;">
+    <img src="/mnt/data/0524c0b2-67d1-4194-ba82-92481318ddfe.png" alt="Turtle Game" style="height:60px;">
 </a>
 
 <br>
