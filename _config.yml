@@ -1,22 +1,22 @@
-title: Open Coding 
+title: Aryan Shrimali's site
 description: "Class of 2026"
-owner_name: John Mortensen
-github_username: jm1021 
-github_repo: "student" 
-baseurl: "/student" 
+owner_name: Aryan Shrimali
+github_username: Aryanshrimali08
+github_repo: "student"
+baseurl: "/student"
 future: true
-remote_theme: jekyll/minima
-minima:
-  skin: dark
-  social_links:
-    - { platform: github, user_url: "https://github.com/open-coding-society" }
-    - { platform: x, user_url: "https://x.com/Open_Coding" }
-    - { platform: youtube, user_url: "https://www.youtube.com/@OpenCodingSociety" } 
+
+# Cayman theme
+remote_theme: pages-themes/cayman@v0.2.0
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+
+# Pages to appear in the navigation
 header_pages:
-  - navigation/blog.md
-  - navigation/search.md
-  - navigation/about.md
-  - navigation/logintoolkit.md
+  - index.md          # Home page
+  - about.md          # About page
+  - blog.md           # Blog page (optional)
+  - logintoolkit.md   # Other page
+  - search.md         # Optional search page

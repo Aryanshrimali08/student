@@ -1,20 +1,12 @@
 ---
-layout: base
-title: John Tab 
+layout: default
+title: Aryan Shrimali's tab!
 hide: true
 ---
 
 ### Me and Team
 
 Hi! My name is Aryan!
-
-| Role         | Name     | Repo Location                       | Stream                | Repo Name |
-|--------------|----------|-------------------------------------|-----------------------|-----------|
-| Scrum Master | John     | github.com/jm1021/student           | upstream (OCS fork)   | student   |
-| Scrummer     | Torin    | github.com/torin/student            | downstream (fork)     | student   |
-| Scrummer     | Avantika | github.com/avantika/student         | downstream (fork)     | student   |
-| Scrummer     | Aadit    | github.com/aaadit/student           | downstream (fork)     | student   |
-
 
 ## Links to Learning
 
@@ -39,12 +31,8 @@ Hi! My name is Aryan!
 
 ### Class Progress
 
-<a href="{{site.baseurl}}/snake">
-    <img src="/mnt/data/b1835db3-7f3f-4595-b448-779f4a9c52be.png" alt="Snake Game" style="height:60px;">
-</a>
-<a href="{{site.baseurl}}/turtle">
-    <img src="/mnt/data/0524c0b2-67d1-4194-ba82-92481318ddfe.png" alt="Turtle Game" style="height:60px;">
-</a>
+<a href="{{site.baseurl}}/snake" style="font-size: 48px; text-decoration: none;">🐍</a>
+<a href="{{site.baseurl}}/turtle" style="font-size: 48px; text-decoration: none;">🐢</a>
 
 <br>
 
@@ -53,4 +41,8 @@ Hi! My name is Aryan!
 
 > Feel free to reach out if you'd like to collaborate or learn more about our work.
 
-<p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
+<p style="color: #2A7DB1;">Open Coding Society: 
+    <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">
+        Socials
+    </a>
+</p>
