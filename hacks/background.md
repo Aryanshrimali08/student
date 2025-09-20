@@ -2,8 +2,8 @@
 layout: base
 title: Background with Object
 description: Use JavaScript to have an in motion background.
-sprite: images/platformer/sprites/flying-ufo.png
-background: images/platformer/backgrounds/alien_planet1.jpg
+sprite: images/platformer/sprites/swxwing.png
+background: images/platformer/backgrounds/swbackground.jpg
 permalink: /background
 ---
 
@@ -72,7 +72,7 @@ permalink: /background
         this.frame = 0;
       }
       update() {
-        // 🚀 Increased frequency from 0.05 → 0.075 (≈50% faster)
+        //  Increased frequency from 0.05 → 0.075 (≈50% faster)
         this.y = this.baseY + Math.sin(this.frame * 0.075) * 20;
         this.frame++;
       }

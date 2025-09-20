@@ -14,6 +14,10 @@ Hi! My name is Aryan!
 
 > Coding starts with tools, explore these tools and procedures with a click.
 
+<a href="{{site.baseurl}}/about" class="button small" style="background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; margin: 5px; display: inline-block;">
+    About Me
+</a>
+
 <a href="https://github.com/Open-Coding-Society/student">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
 </a>
